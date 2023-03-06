@@ -31,7 +31,7 @@ true
 true
 ```
 
-Invalid <Country> vat number:
+Invalid Estonia vat number:
 
 ```php
 $validator = new EEVatFormatValidator();
